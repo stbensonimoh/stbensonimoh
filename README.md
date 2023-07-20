@@ -1,6 +1,8 @@
 ### Hi there 👋
+I love building stuff using new and experimental ideas and methods.
 
-[![Benson's GitHub stats](https://github-readme-stats.vercel.app/api?username=stbensonimoh)](https://github.com/anuraghazra/github-readme-stats)
+[![Benson's GitHub stats](https://github-readme-stats.vercel.app/api?username=stbensonimoh&show=reviews&show_icons=true&ring_color=ec2c7c&icon_color=ec2c7c&title_color=ec2c7c&rank_icon=default)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **stbensonimoh/stbensonimoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
