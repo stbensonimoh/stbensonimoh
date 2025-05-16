@@ -1,19 +1,31 @@
-### Hi there 👋
-I love building stuff using new and experimental ideas and methods.
+# 👋🏾 Hi, I'm Bee – Engineering Leader & Senior Software Engineer
 
-[![Benson's GitHub stats](https://github-readme-stats.vercel.app/api?username=stbensonimoh&show=reviews&show_icons=true&ring_color=ec2c7c&icon_color=ec2c7c&title_color=ec2c7c&rank_icon=default)](https://github.com/anuraghazra/github-readme-stats)
+I'm Benson Imoh (Bee) — a software engineer and engineering leader with over a decade of experience building web platforms, automating workflows, leading distributed teams, and contributing to open-source projects. I currently serve as **Associate Director of Engineering at [350.org](https://350.org)**, where I combine leadership with hands-on software engineering and systems architecture to support its mission in addressing climate issues.
 
-<!--
-**stbensonimoh/stbensonimoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building scalable systems, designing cloud-native infrastructure, and improving developer experience through automation and thoughtful architecture.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Bring to the Table
+
+- **Leadership**: Experience growing and managing remote engineering teams across time zones.
+- **IC Excellence**: I still write code every day — JavaScript/Node.js, PHP, Go, Bash, and whatever gets the work done.
+- **Cloud & DevOps**: Infrastructure on GCP, AWS, Docker, Pulumi, Cloudflare, proficient in CI/CD, and setting up DevOps pipelines.
+- **Frontend & CMS**: Advanced work with React.js (Next.js, Gatsby, Vite) and Vue, WordPress (custom themes and plugins, Gutenberg blocks), Laravel.
+- **OSS & Community**: Actively contributing to OSS projects and supporting tech-for-good initiatives. Contributor to MDN, OSCAFRICA and open-source advocate.
+
+---
+
+## 💼 Open to Opportunities
+
+I'm currently exploring:
+
+- 🚀 **Individual Contributor roles** at mission-driven or tech-forward companies
+- 🧭 **Technical leadership** and DevOps architecture consulting roles
+- 🌍 **Open-source collaborations** that make tech more accessible
+
+📫 [Email Me](mailto:benson@stbensonimoh.com) | [LinkedIn](https://linkedin.com/in/stbensonimoh) | [Website](https://stbensonimoh.com)
+
+---
+
+> “I build software and infrastructure with the precision of an engineer and the curiosity of an artist, creatively and efficiently solving problems using bold ideas and experimental methods.”
